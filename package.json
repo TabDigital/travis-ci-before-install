@@ -1,0 +1,10 @@
+{
+  "name": "travis-ci-before-install",
+  "version": "1.0.0",
+  "description": "Trying to reproduce a bug",
+  "author": "Tabcorp Digital Technology Team",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~4.0.0",
+  }
+}
